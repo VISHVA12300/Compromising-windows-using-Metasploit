@@ -22,6 +22,7 @@ Investigate on the various categories of tools as follows:
 Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
+
 Find the attackers ip address using ifconfig
 
 ![serverside](/img6/m1.png)
@@ -66,7 +67,7 @@ migrate -N explorer.exe at meterpreter > prompt, execute this command: netstat A
 
 ## WINDOWS OUTPUT :
 
-OUTPUT :
+![serverside](/img6/m11.png)
 
 Post Exploitation The target is now owned. Following are meterpreter commands for key capturing in the target machine keyscan_start Begins capturing keys typed in the target. On the Windows target, open Notepad and type in some text, such as your name.
 
